@@ -42,12 +42,12 @@ It ensures everything is protected and accessible for assembly.
 
 ## 5. BOM
 
-| Qty | Part | 
+| Qty | Part |
 |-----|------|
 | 1   | Case Print |
 | 1   | Seeed XIAO RP2040 |
 | 4   | MX-Style Switches |
 | 4   | Blank DSA Keycaps |
-| 4   | M3x16mm Screws |
-| 4   | M3x5mm x 4mm Heatset Inserts |
-| 2   | SK6812 MINI LED |
+| 8   | M3x16mm Screws |
+| 8   | M3x5mm x 4mm Heatset Inserts |
+| 1   | SSD1306 |
